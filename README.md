@@ -2,7 +2,7 @@
 
 ## Project Structure
 ```
-abc/
+deskguardian/
 ├── backend/        # Node.js + Express API
 └── frontend/       # React + Tailwind UI
 ```
